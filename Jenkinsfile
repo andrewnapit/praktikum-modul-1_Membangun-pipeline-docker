@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         // UBAH BAGIAN INI: Ganti <USERNAME_DOCKER_ANDA> dengan username Docker Hub Anda
-        IMAGE_NAME = '<USERNAME_DOCKER_ANDA>/simple-app'
+        IMAGE_NAME = 'andrewnapiupulu/simple-app'
         REGISTRY_CREDENTIALS = 'dockerhub-credentials'
     }
     stages {
