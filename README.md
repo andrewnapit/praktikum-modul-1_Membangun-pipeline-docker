@@ -1,1 +1,1 @@
-# praktikum_simple-app
+# praktikum-modul-1_Membangun-pipeline-docker
